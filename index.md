@@ -72,7 +72,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
   - 2012年10月 - 2013年9月：語学留学のため休学
 
 ## Experience
-- 2020年4月 - 現在：日本学術振興会　特別研究員（DC2）
+- 2021年4月 - 現在：日本学術振興会　特別研究員（DC2）
   - 研究課題：データ解釈に基づく説明可能な文章生成技術の確立
   - [研究課題の詳細（科研費HP）](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J14335/)
 - 2019年4月 - 現在：産業技術総合研究所　人工知能研究センター　テクニカルスタッフ

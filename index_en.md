@@ -35,7 +35,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 - Mar. 2015 B.E (Information Sciences) at Ochanomizu university
 
 ## Experience
-- 2020 - Present JSPS Research Fellows (DC2)
+- 2021 - Present JSPS Research Fellows (DC2)
 - 2019 - Present Technical Staff at Artificial Intelligence Research Center, AIST.
   - Working at [KIRT](https://aistairc.github.io/plu/)
 - 2017 - 2019 Mitsubishi Hevey Industory (MHI) ICT Solution Headquarters
