@@ -43,7 +43,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 4. **時系列データの動向説明文生成における参照時刻の不整合解消に向けた取り組み** \[[pdf](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/B2-2.pdf)\]  
 	濵園侑美, 上原由衣, 能地宏, 宮尾祐介, 高村大也, 小林一郎, *言語処理学会第26回年次大会(NLP2020)*  
   
-5. *時系列数値データの動向を示すテキスト自動生成に向けた取り組み*  
+5. **時系列数値データの動向を示すテキスト自動生成に向けた取り組み**  
 	濵園侑美, 小林一郎, *NLP若手の会 (YANS) 第14回シンポジウム,2019*  
   \*奨励賞受賞 (https://yans.anlp.jp/entry/yans2019report)
   
@@ -64,7 +64,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
   
 
 ## Education
-- 2017年9月 - 現在：お茶の水女子大学大学院　人間文化創成科学研究科　博士後期課程　理学専攻
+- 2017年9月 - 現在：お茶の水女子大学大学院　人間文化創成科学研究科　博士後期課程　理学専攻 在学中
   - 2017年9月-2019年3月：仕事に従事するため休学
 - 2015年4月 - 2017年3月：お茶の水女子大学大学院　人間文化創成科学研究科　博士前期課程　理学専攻
   - 2015年9月 - 2015年11月：ドイツ人工知能研究センター（DFKI） 短期留学
@@ -78,4 +78,4 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 - 2019年4月 - 現在：産業具術研究所　人工知能研究センター　テクニカルスタッフ
   - [知能情報研究チーム（KIRT）](https://aistairc.github.io/plu/) 所属
 - 2017年4月 - 2019年3月：三菱重工業株式会社 ICTソリューション本部　技術職
-  -
+  - 自然言語処理を中心とした業務効率化に関する研究開発に従事
