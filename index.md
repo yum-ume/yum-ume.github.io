@@ -74,7 +74,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 ## Experience
 - 2020年4月 - 現在：日本学術振興会　特別研究員（DC2）
   - 研究課題：データ解釈に基づく説明可能な文章生成技術の確
-  - https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J14335/
+  - [詳細](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J14335/)
 - 2019年4月 - 現在：産業具術研究所　人工知能研究センター　テクニカルスタッフ
   - [知能情報研究チーム（KIRT）](https://aistairc.github.io/plu/) 所属
 - 2017年4月 - 2019年3月：三菱重工業株式会社 ICTソリューション本部　技術職
