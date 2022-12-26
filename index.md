@@ -1,4 +1,5 @@
-# 濵園侑美 (HAMAZONO Yumi) \[[EN](./index_en)\]
+# 濵園侑美 (HAMAZONO Yumi) 
+\[[EN](./index_en)\]
 - Graduate student
   - [小林研究室](https://www.koba.is.ocha.ac.jp/kobalab/) at [お茶の水女子大学](https://www.ocha.ac.jp/)  
 
@@ -34,8 +35,8 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 	濵園 侑美, MARRESE-TAYLOR Edison, 石垣 達也, 宮尾 祐介, 小林 一郎, 高村 大也, *2022年度人工知能学会全国大会（第36回）*  
 	
 2. **レーシングゲーム実況生成**  
-	石垣 達也, トピチ ゴラン, 濵園 侑美, 能地 宏, 小林 一郎, 宮尾 祐介, 高村 大也, *研究報告自然言語処理(NL250), 2021*
-	\*優秀研究賞受賞受賞 (https://nl-ipsj.or.jp/award/)
+	石垣 達也, トピチ ゴラン, 濵園 侑美, 能地 宏, 小林 一郎, 宮尾 祐介, 高村 大也, *研究報告自然言語処理(NL250), 2021*  
+	\*優秀研究賞受賞受賞 ([https://nl-ipsj.or.jp/award/])
   
 3. **時系列データの動向説明文生成における参照時刻の不整合解消の精度向上にむけた取り組み** \[[pdf](https://www.jstage.jst.go.jp/article/pjsai/JSAI2020/0/JSAI2020_3Rin407/_pdf/-char/ja)\]  
 	濵園 侑美, 上原 由衣, 能地 宏, 宮尾 祐介, 高村 大也, 小林 一郎, *2020年度人工知能学会全国大会（第34回）*  
@@ -45,7 +46,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
   
 5. **時系列数値データの動向を示すテキスト自動生成に向けた取り組み**  
 	濵園侑美, 小林一郎, *NLP若手の会 (YANS) 第14回シンポジウム,2019*  
-  \*奨励賞受賞 (https://yans.anlp.jp/entry/yans2019report)
+  \*奨励賞受賞 ([https://yans.anlp.jp/entry/yans2019report])
   
 6. **曖昧言語表現に対するロボット動作の対応関係学習** \[[pdf](https://www.anlp.jp/proceedings/annual_meeting/2017/pdf_dir/P6-3.pdf)\]  
   濵園侑美, 小林一郎, 麻生英樹, 中村友昭, 長井隆行, 持橋大地, *言語処理学会第23回年次大会(NLP2017)*
