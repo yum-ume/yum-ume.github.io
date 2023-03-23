@@ -1,4 +1,4 @@
-# 濵園侑美 (HAMAZONO Yumi) 
+# 濵園 侑美 (HAMAZONO Yumi) <!-- はまぞの ゆみ -->
 \[[EN](./index_en)\]
 - 博士学生
   - [小林研究室](https://www.koba.is.ocha.ac.jp/kobalab/) , [お茶の水女子大学](https://www.ocha.ac.jp/)  
