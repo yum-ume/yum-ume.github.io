@@ -1,8 +1,8 @@
 # 濵園 侑美 (HAMAZONO Yumi) <!-- はまぞの ゆみ -->
 \[[EN](./index_en)\]
 
-- テクニカルスタッフ  
-  - [人工知能研究センター](https://www.airc.aist.go.jp/) , 産業技術総合研究所 (AIST)
+- 研究員
+  - 日立製作所　人工知能イノベーションセンタ メディア知能処理研究部
 
 - 博士（理学）
   - [小林研究室](https://www.koba.is.ocha.ac.jp/kobalab/) , [お茶の水女子大学](https://www.ocha.ac.jp/)  
@@ -74,8 +74,8 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
   - 2012年10月 - 2013年9月：語学留学のため休学
 
 ## Experience
-- 2019年4月 - 現在：産業技術総合研究所　人工知能研究センター　テクニカルスタッフ
-  - [知能情報研究チーム（KIRT）](https://aistairc.github.io/plu/) 所属
+- 2019年4月 - 2023年6月：産業技術総合研究所(AIST)　人工知能研究センター　テクニカルスタッフ
+  - [知能情報研究チーム（KIRT）](https://aistairc.github.io/plu/) 
 - 2021年4月 - 2022年3月：日本学術振興会　特別研究員（DC2）
   - 研究課題：データ解釈に基づく説明可能な文章生成技術の確立
   - [研究課題の詳細（科研費HP）](https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21J14335/)
