@@ -5,26 +5,28 @@
   - 日立製作所　人工知能イノベーションセンタ メディア知能処理研究部
 
 - 博士（理学）
-  - [小林研究室](https://www.koba.is.ocha.ac.jp/kobalab/) , [お茶の水女子大学](https://www.ocha.ac.jp/)  
 
-- Mail: hamazono.yumi \[at\] is.ocha.ac.jp
+- Mail: hamazono.yumi+nlp \[at\] hitachi.com
 
 ## Publications
 ### 国際学会（査読あり）
-1. **Open-domain Video Commentary Generation** \[[pdf](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.495.pdf)\]  
+1. **Audio Commentary System for Real-Time Racing Game Play** \[[pdf](https://aclanthology.org/2023.inlg-demos.4.pdf)\]  
+\Tatsuya Ishigaki, Goran Topić, Yumi Hamazono, Ichiro Kobayashi, Yusuke Miyao, Hiroya Takamura, *INLG2023*  
+
+2. **Open-domain Video Commentary Generation** \[[pdf](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.495.pdf)\]  
 \*Edison Marrese-Taylor, \*Yumi Hamazono, Tatsuya Ishigaki, Goran Topić, Yusuke Miyao, Ichiro Kobayashi, and Hiroya Takamura, *EMNLP2022*  
 \* Equal contributions.  
 
-2. **Generating Racing Game Commentary from Vision, Language, and Structured Data** \[[pdf](https://aclanthology.org/2021.inlg-1.11.pdf)\]  
+3. **Generating Racing Game Commentary from Vision, Language, and Structured Data** \[[pdf](https://aclanthology.org/2021.inlg-1.11.pdf)\]  
 Tatsuya Ishigaki, Goran Topic, Yumi Hamazono, Hiroshi Noji, Ichiro Kobayashi, Yusuke Miyao,and Hiroya Takamura, *INLG2021*  
 
-3. **Unpredictable Attributes in Market Comment Generation** \[[pdf](https://aclanthology.org/2021.paclic-1.23.pdf)\]  
+4. **Unpredictable Attributes in Market Comment Generation** \[[pdf](https://aclanthology.org/2021.paclic-1.23.pdf)\]  
 Yumi Hamazono, Tatsuya Ishigaki, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayashi, *PACLIC2021*  
 
-4. **Market Comment Generation from Data with Noisy Alignments** \[[pdf](https://aclanthology.org/2020.inlg-1.21.pdf)\]  
+5. **Market Comment Generation from Data with Noisy Alignments** \[[pdf](https://aclanthology.org/2020.inlg-1.21.pdf)\]  
 Yumi Hamazono, Yui Uehara,  Hiroshi Noji, Yusuke Miyao, Hiroya Takamura, and Ichiro Kobayashi, *INLG2020*  
 
-5. **Learning the Correspondence between Distributed Semantics of Words and Robot’s Action**  
+6. **Learning the Correspondence between Distributed Semantics of Words and Robot’s Action**  
 Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attamimi, Tomoaki Nakamura, and Takayuki Nagai, *Workshop on Machine Learning Methods for High-Level Cognitive Capabilities in Robotics 2016*
 
 ### 論文誌
@@ -68,6 +70,7 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 
 ## Education
 - 2019年4月 - 2023年3月：お茶の水女子大学大学院　人間文化創成科学研究科　博士後期課程　理学専攻
+   - [小林研究室](https://www.koba.is.ocha.ac.jp/kobalab/) , [お茶の水女子大学](https://www.ocha.ac.jp/)  
 - 2015年4月 - 2017年3月：お茶の水女子大学大学院　人間文化創成科学研究科　博士前期課程　理学専攻
   - 2015年9月 - 2015年11月：ドイツ人工知能研究センター（DFKI） 短期留学
 - 2010年4月 - 2015年3月：お茶の水女子大学　理学部　情報科学科
