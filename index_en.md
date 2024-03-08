@@ -1,10 +1,9 @@
 # HAMAZONO Yumi
-- Graduate student
-  - [Kobayashi Lab](https://www.koba.is.ocha.ac.jp/kobalab/) at [Ochanomizu University](https://www.ocha.ac.jp/)  
-
-- Technical Staff  
-  - [AIRC](https://www.airc.aist.go.jp/) at AIST, Japan
-
+Last update: 8th March, 2024
+- Researcher
+  - Media Intelligent Processing Research Department,  Advance Artificial Intelligent Innovation Center, Hitachi, Ltd.
+     
+- Ph.D (Science)
 
 ## Publications
 ### International Conference
@@ -29,14 +28,15 @@ Yumi Hamazono, Ichiro Kobayashi, Hideki Asoh, Daichi Mochihashi, Muhanmmad Attam
 濵園 侑美, 小林 一郎, 麻生 英樹, 中村 友昭, 長井 隆行, 持橋 大地, *日本知能情報ファジィ学会 知能と情報 2020年32巻*
 
 ## Education
-- 2019 - Present PhD Candidate (Division of Information Sciences in Science), 2022–Present
-- Mar. 2017 M.E (information Sciences) at Ochanomizu University
+- 2019 - Present PhD Candidate (Division of Information Sciences in Science), 2022–2023
+  - [Kobayashi Lab](https://www.koba.is.ocha.ac.jp/kobalab/) at [Ochanomizu University](https://www.ocha.ac.jp/)   
+- Mar. 2017 M.E (Information Sciences) at Ochanomizu University
   - Sep. 2015 - Nov. 2015 Internship student at DFKI (German Research Centre for Artificial Intelligence)
-- Mar. 2015 B.E (Information Sciences) at Ochanomizu university
+- Mar. 2015 B.E (Information Sciences) at Ochanomizu University
 
 ## Experience
-- 2021 - Present JSPS Research Fellows (DC2)
-- 2019 - Present Technical Staff at Artificial Intelligence Research Center, AIST.
+- 2021 - 2023 JSPS Research Fellows (DC2)
+- 2019 - 2023 Technical Staff at Artificial Intelligence Research Center, AIST.
   - Working at [KIRT](https://aistairc.github.io/plu/)
-- 2017 - 2019 Mitsubishi Hevey Industory (MHI) ICT Solution Headquarters
+- 2017 - 2019 Mitsubishi Hevey Industry (MHI) ICT Solution Headquarters
   - R&D 
