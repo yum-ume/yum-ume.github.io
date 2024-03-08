@@ -7,7 +7,7 @@
 
 - 博士（理学）
 
-- Mail: hamazono.yumi+nlp \[at\] hitachi.com
+- Mail: hamazono.yumi+nlp \[at\] gmail.com
 
 ## Publications
 ### 国際学会（査読あり）
