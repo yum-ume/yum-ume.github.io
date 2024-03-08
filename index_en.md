@@ -8,7 +8,7 @@ Last update: 8th March, 2024
 ## Publications
 ### International Conference
 1. **Audio Commentary System for Real-Time Racing Game Play** \[[pdf](https://aclanthology.org/2023.inlg-demos.4.pdf)\]  
-\Tatsuya Ishigaki, Goran Topić, Yumi Hamazono, Ichiro Kobayashi, Yusuke Miyao, Hiroya Takamura, *INLG2023*
+Tatsuya Ishigaki, Goran Topić, Yumi Hamazono, Ichiro Kobayashi, Yusuke Miyao, Hiroya Takamura, *INLG2023*
 
 2. **Open-domain Video Commentary Generation** \[[pdf](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.495.pdf)\]  
 \*Edison Marrese-Taylor, \*Yumi Hamazono, Tatsuya Ishigaki, Goran Topić, Yusuke Miyao, Ichiro Kobayashi, and Hiroya Takamura, *EMNLP2022*  
